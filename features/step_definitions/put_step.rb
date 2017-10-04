@@ -12,7 +12,7 @@ Dado(/^que eu altere os parametros do meu cliente de um cliente específico$/) d
     "senha": @senha_alterada
   }.to_json
 
-  @put = HTTParty.put 'http://localhost:3000/clientes/3',
+  @put = HTTParty.put 'http://localhost:3000/clientes/1',
     :body => @body_put,
     :headers => {
       "Content-Type" => 'application/json'
