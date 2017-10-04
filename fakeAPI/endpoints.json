@@ -2,9 +2,9 @@
   "clientes": [
     {
       "id": 1,
-      "nome": "Nome Teste",
-      "cpf": "123.456.789-0",
-      "endereco": "Rua Teste dos teste",
+      "nome": "Testinho",
+      "cpf": "12345678905",
+      "endereco": "Alameda dos Testes 1114",
       "usuario": "usuario",
       "senha": "senha"
     }
